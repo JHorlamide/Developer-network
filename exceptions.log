@@ -1,0 +1,420 @@
+[31merror - uncaughtException: Cannot find module './stat'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31mError: Cannot find module './stat'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:997:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:5:24)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31merror - uncaughtException: Cannot find module './stat'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31mError: Cannot find module './stat'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:997:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:5:24)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31merror - uncaughtException: Cannot find module './startup'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31mError: Cannot find module './startup'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:997:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:5:24)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31merror - uncaughtException: Cannot find module './startup'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31mError: Cannot find module './startup'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:997:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:5:24)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31merror - uncaughtException: Cannot find module './startup/'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31mError: Cannot find module './startup/'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:997:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:5:24)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31merror - uncaughtException: Cannot find module './startup/'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31mError: Cannot find module './startup/'[39m
+[31mRequire stack:[39m
+[31m- C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:925:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:769:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:997:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:92:18)[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:5:24)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31merror - uncaughtException: co is not defined[39m
+[31mReferenceError: co is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: co is not defined[39m
+[31mReferenceError: co is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSe is not defined[39m
+[31mReferenceError: configSe is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSe is not defined[39m
+[31mReferenceError: configSe is not defined[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:14:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
+[31merror - uncaughtException: configSettings is not a function[39m
+[31mTypeError: configSettings is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\DELL\OneDrive\Documents\FullStack Dev Tutorial\Social-Network (Brad Travesy)\server\server.js:15:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1108:14)[39m
+[31m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:973:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:813:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)[39m
+[31m    at node:internal/main/run_main_module:17:47[39m
