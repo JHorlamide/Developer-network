@@ -1,4 +1,4 @@
 node_modules/
-.gitignore/
-exceptions.log/
-errors.log/
+.gitignore
+exceptions.log
+errors.log
