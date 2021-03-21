@@ -1,2 +1,4 @@
 node_modules/
-exception.log/
+.gitignore/
+exceptions.log/
+errors.log/
