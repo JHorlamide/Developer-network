@@ -1,3 +1,6 @@
 {
-  "jswPrivateKey": ""
+  "JwtPrivateKey": "secrete",
+  "mongoURI": "DATABASE_URL",
+  "githubClientId": "0fb2d6e936a465fe458c",
+  "githubSecret": "97ecd6eb45f029771618380f3bb576a27e6baf7d"
 }

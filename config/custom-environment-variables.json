@@ -1,3 +1,4 @@
 {
-  "jswPrivateKey": ""
+  "JwtPrivateKey": "secrete",
+  "mongoURI": "DATABASE_URL"
 }

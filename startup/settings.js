@@ -1,14 +1,12 @@
 const logger = require('./error_handler');
 const config = require('config');
 
-
 /* Configuration settings for Json Web Token */
 const configSettings = function () {
-  if (!config.get('jwtScrete')) {
+  if (!config.get('JwtPrivateKey')) {
     throw new Error('FATAL ERROR: JwtPrivateKey is not defined');
   }
 };
-
 
 /* Checking NODE_ENV */
 const NODE_ENV = function () {
@@ -17,6 +15,4 @@ const NODE_ENV = function () {
   }
 };
 
-module.exports = configSettings;
-module.exports = NODE_ENV;
-
+module.exports = { configSettings, NODE_ENV };

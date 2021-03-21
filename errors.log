@@ -1,0 +1,33 @@
+[31merror - validate is not defined validate is not defined[39m
+[31merror - profileField is not defined profileField is not defined[39m
+[31merror - profileFieldS is not defined profileFieldS is not defined[39m
+[31merror - skills.slipt is not a function skills.slipt is not a function[39m
+[31merror - Schema hasn't been registered for model "user".[39m
+[31mUse mongoose.model(name, schema) Schema hasn't been registered for model "user".[39m
+[31mUse mongoose.model(name, schema)[39m
+[31merror - Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile" Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile"[39m
+[31merror - Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile" Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile"[39m
+[31merror - Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile" Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile"[39m
+[31merror - Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile" Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile"[39m
+[31merror - Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile" Cast to ObjectId failed for value "{ user: '605501bb73923453e858133a' }" at path "_id" for model "Profile"[39m
+[31merror - Unexpected end of JSON input Unexpected end of JSON input[39m
+[31merror - Unexpected end of JSON input Unexpected end of JSON input[39m
+[31merror - Cannot read property 'id' of undefined Cannot read property 'id' of undefined[39m
+[31merror - Parameter "filter" to findOne() must be an object, got 605627d11de44e50e0b5cab5 Parameter "filter" to findOne() must be an object, got 605627d11de44e50e0b5cab5[39m
+[31merror - Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile" Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile"[39m
+[31merror - Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile" Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile"[39m
+[31merror - Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile" Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile"[39m
+[31merror - Profile validation failed: experience.0.company: Path `company` is required., experience.0.from: Path `from` is required. Profile validation failed: experience.0.company: Path `company` is required., experience.0.from: Path `from` is required.[39m
+[31merror - Profile validation failed: education.0.school: Path `school` is required. Profile validation failed: education.0.school: Path `school` is required.[39m
+[31merror - Profile validation failed: education.0.school: Path `school` is required. Profile validation failed: education.0.school: Path `school` is required.[39m
+[31merror - inputValidation.validateEdu is not a function inputValidation.validateEdu is not a function[39m
+[31merror - inputValidation.validateEdu is not a function inputValidation.validateEdu is not a function[39m
+[31merror - inputValidation.validateEdu is not a function inputValidation.validateEdu is not a function[39m
+[31merror - inputValidation.validateEdu is not a function inputValidation.validateEdu is not a function[39m
+[31merror - Profile.findOne is not a function Profile.findOne is not a function[39m
+[31merror - Profile validation failed: education.0.school: Path `school` is required. Profile validation failed: education.0.school: Path `school` is required.[39m
+[31merror - Profile validation failed: education.0.school: Path `school` is required. Profile validation failed: education.0.school: Path `school` is required.[39m
+[31merror - Profile validation failed: education.0.school: Path `school` is required. Profile validation failed: education.0.school: Path `school` is required.[39m
+[31merror - Profile validation failed: education.0.school: Path `school` is required. Profile validation failed: education.0.school: Path `school` is required.[39m
+[31merror - Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile" Cast to ObjectId failed for value "605625cc1de44e50e0b5cab1123" at path "user" for model "Profile"[39m
+[31merror - config is not defined config is not defined[39m
